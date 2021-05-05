@@ -1,0 +1,1 @@
+config:arm:armv6:armv6:linux:gcc 8 (Raspbian 8.3.0-6+rpi1):--prefix=/opt/ffmpeg --enable-shared --enable-pthreads --enable-gpl --enable-avresample --enable-libx264 --disable-yasm
